@@ -1,5 +1,5 @@
 # newsapi-to-csv
-A data# NewsAPI Crypto News Data Pipeline
+# NewsAPI Crypto News Data Pipeline
 
 A Python data pipeline that fetches the latest cryptocurrency news 
 from NewsAPI, processes the JSON response using Pandas, and exports 
